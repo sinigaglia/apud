@@ -14,7 +14,7 @@ Para utilizar o Apud, siga os passos abaixo:
    
 2. **Leitura dos PDFs**: Após selecionar a pasta, você tem a opção de ativar a "Recursão nas pastas" para incluir arquivos em subpastas na leitura. Clique em "Ler PDFs" para iniciar a varredura dos documentos usando a biblioteca Apache Tika.
 
-3. **Realização de Buscas**: Com os dados dos PDFs lidos, você pode iniciar a busca textual. No lado direito da interface, é possível escolher entre busca por sinônimos, busca por expressões regulares e ajustar a "Combinação mínima" para definir o nível de precisão da busca.
+3. **Realização de Buscas**: Com os dados dos PDFs lidos, você pode iniciar a busca textual. No lado direito da interface é possível escolher entre busca por sinônimos, busca por expressões regulares e ajustar a "Combinação mínima" para definir o nível de precisão da busca.
 
 4. **Visualização de Resultados**: Os resultados exibem em quais documentos a busca foi bem-sucedida, os termos encontrados, a frase onde estão localizados, e sua relevância. Um clique duplo em qualquer linha da tabela abre um diálogo detalhado, mostrando frases adjacentes e permitindo abrir o documento no visualizador de PDFs padrão.
 
