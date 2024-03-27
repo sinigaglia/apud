@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     # Add the tag here
-    tags: v0.2  # Replace with your desired tag name
+    tags: v2.0  # Replace with your desired tag name
